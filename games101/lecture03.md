@@ -2,7 +2,7 @@
 ## scale(缩放)
 ![[Pasted image 20220708145811.png]]
 ## shear(切变)
-![[Pasted image 20220708121055.png]]
+![](./Pasted image 20220708121055.png)
 ## rotation(旋转)
 ![[Pasted image 20220708122117.png]]
 ## homogeneous coordinates(齐次坐标)
