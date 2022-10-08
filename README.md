@@ -4,7 +4,7 @@
 
 Lec 01 - Overview 计算机图形学概述
 
-Lec 02 - Linear Algebra 向量与线性代数
+[Lec 02 - Linear Algebra 向量与线性代数](./games101/lecture02.md)
 
 Lec 03~04 - Transformation 基础变换、三维到二维变换（模型、视图、投影）
 
